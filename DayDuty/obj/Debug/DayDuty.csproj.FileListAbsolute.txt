@@ -1,0 +1,13 @@
+C:\Neeraj\Projects\DayDuty\DayDuty\DayDuty\bin\Debug\DayDuty.exe.config
+C:\Neeraj\Projects\DayDuty\DayDuty\DayDuty\bin\Debug\DayDuty.exe
+C:\Neeraj\Projects\DayDuty\DayDuty\DayDuty\bin\Debug\DayDuty.pdb
+C:\Neeraj\Projects\DayDuty\DayDuty\DayDuty\obj\Debug\MainWindow.g.cs
+C:\Neeraj\Projects\DayDuty\DayDuty\DayDuty\obj\Debug\App.g.cs
+C:\Neeraj\Projects\DayDuty\DayDuty\DayDuty\obj\Debug\DayDuty_MarkupCompile.cache
+C:\Neeraj\Projects\DayDuty\DayDuty\DayDuty\obj\Debug\DayDuty_MarkupCompile.lref
+C:\Neeraj\Projects\DayDuty\DayDuty\DayDuty\obj\Debug\MainWindow.baml
+C:\Neeraj\Projects\DayDuty\DayDuty\DayDuty\obj\Debug\DayDuty.g.resources
+C:\Neeraj\Projects\DayDuty\DayDuty\DayDuty\obj\Debug\DayDuty.Properties.Resources.resources
+C:\Neeraj\Projects\DayDuty\DayDuty\DayDuty\obj\Debug\DayDuty.csproj.GenerateResource.Cache
+C:\Neeraj\Projects\DayDuty\DayDuty\DayDuty\obj\Debug\DayDuty.exe
+C:\Neeraj\Projects\DayDuty\DayDuty\DayDuty\obj\Debug\DayDuty.pdb
